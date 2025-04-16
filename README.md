@@ -5,9 +5,7 @@
   + 😈 I'm a Mathematics and Informatics Student but currently hate math T_T
   + 🐳 My target is Cyber Security Expert and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out the screen and she says "I love you" to me. Someone though my level is project manager, cool but sr im not haha, btw i think i have good skill :DĐ
   + 🎵 Nào có hứng thì code, không thì thôi. pay for working, not free.
-  + Nhanh chán, đặc biệt là trong mọi tình huống, dù nó là gì đi nữa
-  + Anh Lại Làm Em Khóc Nữa Rồi
-
+  + Nhanh chán, đặc biệt là trong mọi tình huống, dù nó là gì đi nữa (đã confirm từ một nguồn uy tín <("))
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 
