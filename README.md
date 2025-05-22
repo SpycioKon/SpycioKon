@@ -1,11 +1,12 @@
-# 💫Hello, Im Spycio.Kon
-## 💫About Me:
-- 🫣 Hi, let me introduce myself:
-  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now at least until im better than now
-  + 😈 I'm a Applied Mathematics Student but currently hate caculus T_T
-  + 🐳 My target is Cyber Security Expert and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out the screen and she says "I love you" to me. Someone though my level is project manager, cool but sr im not haha, btw i think i have good skill :DĐ
-  + 🎵 Nào có hứng thì code, không thì thôi. pay for working, not free.
-  + Nhanh chán, đặc biệt là trong mọi tình huống, dù nó là gì đi nữa (đã confirm từ một nguồn uy tín <("))
+# 💫Hello, Im Spycio.Kon - Just a noob
+## 💫: My friend is swanny and she hates ducky (me):
+- 🫣 Just sitting there, listening to my presentations — and somehow, that means the world to me:
+  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly 😁. I am in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now
+  + 😈 I'm a Applied Mathematics Student but currently hate PDE and functional analysis T_T
+  + 🐳 My target is Cyber Security Expert, and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out of the screen and she says "K0n-sama, as long as you're here, every storm in my heart turns into peace". Someone though my level is project manager, cool but sr im not haha, btw i think i have good skill, especially exploit linux system and so on. :DĐ Cant believe i haved a friend who did in Microsoft
+  + 🎵 "I code when I'm inspired — if not, I don’t". You don't get my time for free; whoever you are, there's always a price before we deal.
+  +  I get bored easily, no matter the situation — it's been confirmed by a very reliable source <(")
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 
