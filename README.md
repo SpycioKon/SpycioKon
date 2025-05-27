@@ -1,5 +1,5 @@
 # 💫Hello, Im Spycio.Kon - Just a noob
-## 💫: My friend is swanny and she hates ducky (me):
+## 💫: My name is ducky (me):
 - 🫣 Just sitting there, listening to my presentations — and somehow, that means the world to me:
   + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly 😁. I am in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now
   + 😈 I'm an Applied Mathematics Student but currently hate PDE and functional analysis T_T
