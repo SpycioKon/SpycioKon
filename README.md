@@ -15,6 +15,3 @@
 
 ### 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hackervnn40.png" width="500px" height="100px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=tiyeume25112004&icon=8&color=9)](https://visitcount.itsvg.in)
