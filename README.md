@@ -1,7 +1,6 @@
-# 💫Hello, Im Spycio.Kon - Just a noob
-## 💫: Call me ducky, i dont mind:
-- 🫣 Just sitting there, listening to my presentations — and somehow, that means the world to me:
-  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly 😁. I am in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now
+# 💫Hello, Im Spycio.Kon aka Spycio aka Konchan - Just a noob
+# 💫: My name is ducky, that's great nickname from an old friend.
+  + 🥇 My realname is Vu Tien Dat, I was born in the South of Vietnam… Spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly 😁. Im in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now, i fell in love with anime more than the shitty real world. 
   + 🕷️ I'm an Applied Mathematics Student but currently hate PDE and Functional Analysis T_T
   + 🐧 My target is Cyber Security Expert, and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out of the screen and she says "K0n-sama, as long as you're here, every storm in my heart turns into peace". Someone though my level is PM, cool but sr im not haha, btw i think i have a good skill, especially exploit linux system and so on. :DĐ Cant believe i had a friend who worked at Microsoft
   + 🦢 "I code when I'm inspired — if not, I don’t". You don't get my time for free; whoever you are, there's always a price before we deal.
