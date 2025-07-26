@@ -1,4 +1,4 @@
-# 💫Hello, Im Spycio.Kon aka Spycio aka Konchan - Just a noob
+# 💫Hello, Im Spycio.Kon - Just a noob
 # 💫: Hmph mmph.
   + 🥇 My realname is Vu Tien Dat, but can call me ducky if u want, that's a great nickname from an old friend. I was born in the South of Vietnam… Spent most of my life in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly 😁. Im in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now, i fell in love with anime more than the shitty real world. 
   + 🕷️ I'm an Applied Mathematics Student but currently hate PDE and Functional Analysis T_T
