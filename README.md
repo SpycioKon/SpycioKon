@@ -1,5 +1,6 @@
 <!-- banner-->
 <img src="static/banner.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+
 # 💫: Hmph mmph.
   + 🥇 My vietnamese name sounds like Dart, but u can call me Ducky - just a great nickname from an old friend. I was born in the South of Vietnam and spent most of my life in Pleiku, but now my accommodation is in ... Oh you don’t need to know exactly 😁. Im in my 21s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now, i fall in love with anime girls more than the shitty real world. 
   + 🕷️  An ambivert studies Applied Mathematics. 
