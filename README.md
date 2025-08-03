@@ -1,7 +1,8 @@
 <!-- banner-->
+> — Cố gắng thử việc tại mọi ví trí của phòng ban IT
 <img src="static/banner.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
-# 💫 About me
+## 💫 About me
 + 🥇 Applied mathemetic student, but have a love with **Computer Science** expecially **Cyber Security**. Hoppies include manga, music, writting,.
 
 ## 🌐Socials
