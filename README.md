@@ -2,7 +2,7 @@
 <img src="static/banner.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 # 💫 About me
-+ 🥇 Applied mathemetic student, but have a love with **Computer Science** expecially **Cyber Security**. Hoppies include alime, sad music.
++ 🥇 Applied mathemetic student, but have a love with **Computer Science** expecially **Cyber Security**. Hoppies include manga, music, writting,.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
