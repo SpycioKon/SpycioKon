@@ -1,5 +1,5 @@
 <!-- banner-->
-> Cố gắng thử việc tại mọi ví trí của phòng ban IT
+## Favourite banner
 <img src="static/banner.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 ## 💫 About me
