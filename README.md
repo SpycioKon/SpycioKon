@@ -4,6 +4,8 @@
 
 ## 💫 About me
 + 🥇 Applied mathemetic student, but have a love with **Computer Science** expecially **Cyber Security**. Hoppies include manga, music, writting,.
+> **"Khi bạn đủ kiên nhẫn để hiểu một người, bạn đã biết cách tiếp cận họ.
+Khi bạn đủ tinh ý để hiểu hệ thống, bạn đã biết cách khai thác nó"**
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
