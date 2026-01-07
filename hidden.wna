@@ -428,21 +428,6 @@ Module: File Upload Attacks
 8. Try to read the source code of 'upload.php' to identify the uploads directory, and use its name as the answer. (write it exactly as found in the source, without quotes) -> ./images/
 9. Try to exploit the upload form to read the flag found at the root directory "/". -> HTB{m4573r1ng_upl04d_3xpl0174710n}
 
-[Image: giphy.gif]
-Follow and comment on the thread for more. Cool
-PM Find00 Reply Quote Report
-Ic3Sec
-
-Breached
-Member
-Posts:4
-Threads:2
-Joined:Apr 2024
-Reputation:0
-#204-08-2024, 03:10 PM
-[Image: giphy.gif]
-
-
 
 Module: Command Injections
 1. Try adding any of the injection operators after the ip in IP field. What did the error message say (in English)? -> Please match the requested format.
